@@ -68,7 +68,7 @@ public class MonteCarloProject {
         // -----------------------------------------------------------
         double totalError     = 0;
         double totalTime      = 0;
-        int    errorCount     = 0;   // %ERROR_MARGIN üzeri hata sayısı
+        int    errorCount     = 0;   // Number of errors exceeding %ERROR_MARGIN
         double[] times        = new double[EXPERIMENTS];
         double[] errorRates   = new double[EXPERIMENTS];
 
