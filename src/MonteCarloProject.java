@@ -5,7 +5,6 @@ import java.util.Random;
  *
  * Problem: In a randomly generated array of N elements,
  * estimate the number of elements whose value is 0 modulo 7.
-
  */
 public class MonteCarloProject {
 
